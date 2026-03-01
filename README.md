@@ -9,7 +9,8 @@ It helps farmers and extension agents get fast, practical recommendations in Fre
 
 - [Web demo](https://gooey.ai/chat/le-fermier-QJ2/)
 - [WhatsApp demo](https://wa.me/+15102293323?text=%2Fextension+43285) (Scan QR below)
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
 
 ## Problem
 
@@ -30,7 +31,7 @@ Le Fermier converts this into short, actionable answers at a simple reading leve
 
 ### Architecture Slide
 
-![Le Fermier Architecture Slide](https://v3b.fal.media/files/b/0a9079c0/kpabFrLqDT_yuysWT7FRt_mEjkcRmF.png)
+![Le Fermier Architecture Slide](https://v3b.fal.media/files/b/0a907a4a/JudUAKeQIo1xgdAAFN3bG_MNBzWSUO.png)
 
 ### 1) Knowledge Ingestion (French docs -> searchable knowledge)
 
