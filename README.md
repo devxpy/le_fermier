@@ -8,6 +8,8 @@ It helps farmers and extension agents get fast, practical recommendations in Fre
 - Gooey demo: https://gooey.ai/chat/le-fermier-QJ2/
 - WhatsApp demo: https://wa.me/+15102293323?text=%2Fextension+43285
 
+<img width="1673" height="997" alt="image" src="https://github.com/user-attachments/assets/533b6bfd-d454-4f19-98f7-162d48e6de7f" />
+
 ## Problem
 
 Farmers often need immediate, local, and crop-specific advice, but reliable recommendations are spread across long technical documents and hard-to-access data sources.
