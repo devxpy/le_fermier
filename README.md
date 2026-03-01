@@ -1,6 +1,6 @@
 # Le Fermier
 
-Le Fermier is an AI agriculture assistant built on GooeyAI for the **Mistral AI Worldwide Hackathon 2026**.  
+Le Fermier is an AI agriculture assistant that helps French Farmers, built for the **Mistral AI Worldwide Hackathon 2026**.  
 It helps farmers and extension agents get fast, practical recommendations in French, with support for voice, document-grounded answers, and location-aware soil guidance.
 
 ## Demo Links
