@@ -8,7 +8,7 @@ It helps farmers and extension agents get fast, practical recommendations in Fre
 - Gooey demo: https://gooey.ai/chat/le-fermier-QJ2/
 - WhatsApp demo: https://wa.me/+15102293323?text=%2Fextension+43285
 
-<img width="1673" height="997" alt="image" src="https://github.com/user-attachments/assets/533b6bfd-d454-4f19-98f7-162d48e6de7f" />
+<img width="1677" height="995" alt="image" src="https://github.com/user-attachments/assets/0dce2a90-744c-48d5-9d76-070000a1df0e" />
 
 ## Problem
 
