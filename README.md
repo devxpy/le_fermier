@@ -3,16 +3,13 @@
 Le Fermier is an AI agriculture assistant that helps French Farmers, built for the **Mistral AI Worldwide Hackathon 2026**.  
 It helps farmers and extension agents get fast, practical recommendations in French, with support for voice, document-grounded answers, and location-aware soil guidance.
 
-
 <img width="1677" height="995" alt="image" src="https://github.com/user-attachments/assets/0dce2a90-744c-48d5-9d76-070000a1df0e" />
 
 ## Demo Links
 
 - [Web demo](https://gooey.ai/chat/le-fermier-QJ2/)
 - [WhatsApp demo](https://wa.me/+15102293323?text=%2Fextension+43285) (Scan QR below)
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
-
-
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
 
 ## Problem
 
@@ -27,7 +24,7 @@ Le Fermier converts this into short, actionable answers at a simple reading leve
 - Accepts voice notes and returns voice responses.
 - Uses geospatial soil insights to suggest fertilizer strategies.
 - Uses web data for local weather and price context when needed.
-- Persists key user context (location, crops, profile fields) with Gooey memory for more personalized follow-ups.
+- Persists key user context (location, crops, profile fields) with memory for more personalized follow-ups.
 
 ## Architecture
 
@@ -66,8 +63,6 @@ Le Fermier converts this into short, actionable answers at a simple reading leve
 
 ## Tech Stack
 
-- GooeyAI Video Bots API
-- Gooey Memory tools (`GOOEY_MEMORY_READ_VALUE`, `GOOEY_MEMORY_WRITE_VALUE`)
 - Mistral OCR
 - Mistral Embed
 - Mistral Large (LLM)
@@ -76,10 +71,12 @@ Le Fermier converts this into short, actionable answers at a simple reading leve
 - ElevenLabs (French TTS)
 - ISDA Soil API function
 - Google Search function/tool
+- GooeyAI Copilot API
+- Memory tools
 
 ## Repository Structure
 
-- `config/gooey_workflow.json`: Exported GooeyAI workflow definition for Le Fermier.
+- `config/gooey_workflow.json`: Exported GooeyAI workflow definition for Le Fermier - https://gooey.ai/copilot/le-fermier-krr6eborsl0v/
 - `docs/hackathon-submission.md`: Submission checklist and event links.
 - `supporting/isda-soil-function.js`: ISDA soil property fetch + condensation helper.
 - `supporting/google-search-function.js`: Serper-powered Google search helper.
@@ -122,7 +119,7 @@ The repository includes a helper for runtime web retrieval through Serper:
 
 ## Memory: How It Works and Why It Helps
 
-Le Fermier uses Gooey memory primitives to persist critical user profile context:
+Le Fermier uses memory primitives to persist critical user profile context:
 
 - `GOOEY_MEMORY_READ_VALUE`: reads saved user facts at the start of a turn.
 - `GOOEY_MEMORY_WRITE_VALUE`: writes newly confirmed facts at the end of a turn.
