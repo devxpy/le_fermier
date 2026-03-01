@@ -3,12 +3,16 @@
 Le Fermier is an AI agriculture assistant that helps French Farmers, built for the **Mistral AI Worldwide Hackathon 2026**.  
 It helps farmers and extension agents get fast, practical recommendations in French, with support for voice, document-grounded answers, and location-aware soil guidance.
 
-## Demo Links
-
-- Gooey demo: https://gooey.ai/chat/le-fermier-QJ2/
-- WhatsApp demo: https://wa.me/+15102293323?text=%2Fextension+43285
 
 <img width="1677" height="995" alt="image" src="https://github.com/user-attachments/assets/0dce2a90-744c-48d5-9d76-070000a1df0e" />
+
+## Demo Links
+
+- [Web demo](https://gooey.ai/chat/le-fermier-QJ2/)
+- [WhatsApp demo](https://wa.me/+15102293323?text=%2Fextension+43285) (Scan QR below)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
+
+
 
 ## Problem
 
