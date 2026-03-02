@@ -8,7 +8,6 @@ It helps farmers and extension agents get fast, practical recommendations in Fre
 ## Demo Links
 
 - [Web demo](https://gooey.ai/chat/le-fermier-QJ2/)
-- <a href="sms:+12195000048?body=90106">SMS</a>
 - [WhatsApp demo](https://wa.me/+15102293323?text=%2Fextension+43285) (Scan QR below)
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d8c90d5-e881-44f5-974a-1f125983e864" />
